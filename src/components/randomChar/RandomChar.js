@@ -74,10 +74,10 @@ const View = ({char}) => {
                 </p>
                 <div className="randomchar__btns">
                     <a href={homepage} className="button button__main">
-                        <div className="inner">test homepage</div>
+                        <div className="inner">Homepage</div>
                     </a>
                     <a href={wiki} className="button button__secondary">
-                        <div className="inner">Test Wiki</div>
+                        <div className="inner">Wiki</div>
                     </a>
                 </div>
             </div>
